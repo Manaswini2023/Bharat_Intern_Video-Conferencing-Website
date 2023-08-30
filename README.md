@@ -1,1 +1,4 @@
-# Bharat_Intern_Video-Conferencing-Website
+## Bharat_Intern_Video-Conferencing-Website
+- This project is a task assigned as part of a virtual internship offered by Bharat Intern in Full Stack Web Development.
+- The technologies used are WebRTC, Agora.io, HTML, CSS, Javascript.
+- This repository contains the code for a Video Conferencing Website, designed to facilitate seamless virtual meetings and communication. This platform empowers users to initiate and partake in video conferences with ease, enhancing remote collaboration. The website offers an intuitive interface that enables users to set up and manage virtual meetings, fostering communication through both video and audio channels. Additionally, the project includes a live chat option that allows participants to engage in real-time text-based conversations during video conferences, further enhancing the interactive and collaborative experience.
